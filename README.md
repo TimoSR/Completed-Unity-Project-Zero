@@ -10,12 +10,13 @@ high focus on multiplayer technologies, as online multiplayer games have shown t
 interest, by enabling them to socialize and compete. The project will be using the Photon 2
 Network and the Playfab Azure service. The project is a combined effort of 2 electives:
 Advanced Programming & Introduction to Unity.
+
 Project Overview:
-● Creating the system to access the Photon 2 Network.
-● Creating the system to create users profiles and handle game data with playfab.
-● Design the software using the principles taught in advanced programming.
-● Create a game designed around the cloud system and its technologies.
-● Using game design principles to develop fun gameplay.
+* Creating the system to access the Photon 2 Network.
+* Creating the system to create users profiles and handle game data with playfab.
+* Design the software using the principles taught in advanced programming.
+* Create a game designed around the cloud system and its technologies.
+* Using game design principles to develop fun gameplay.
 The scope of the project may vary, as the requirements for the project will be discovered
 throughout the project, and as time permits.
 
