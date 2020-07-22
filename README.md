@@ -1,6 +1,10 @@
 # Unity-Project-Zero
 DAT Unity Course Final Project
 
+Disclaimer: Assets used is from the Unity Asset Store.
+
+System logic and character controls is implemented by me. 
+
 # Multiplayer-Development
 A project exploring the photon network combined with the Playfab account system.
 
@@ -26,8 +30,4 @@ A full functional multiplayer game with cloud synced accounts and player interac
 
 ## Guides to test the projects
 
-### Animation Retimer Tool
-https://www.notion.so/Animation-Re-Timer-6ae15197636d439fafbfcab669075631
-
-### Model Creator
-https://www.notion.so/Simple-Model-Creator-931ab8237ea64e3ea7f4ac8046e24c3c
+https://www.notion.so/Unity-Final-Project-Guide-98b94275ad2e49e1b5f266f6bf9395ea
